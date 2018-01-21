@@ -14,5 +14,5 @@ blank=blank+1;
 i++;
 }
 printf("%d",blank);
-return.c
+return 0;
 }
