@@ -1,7 +1,7 @@
 #include<stdio.h>
 int main()
 {
-char string[50];
+char string[60];
 int i,count=0;
 scanf("%s",&string[i]);
 while(string[i]!='\0')
